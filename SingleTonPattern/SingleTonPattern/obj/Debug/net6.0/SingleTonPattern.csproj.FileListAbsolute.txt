@@ -1,0 +1,15 @@
+C:\Users\Bilal\source\repos\SingleTonPattern\SingleTonPattern\bin\Debug\net6.0\SingleTonPattern.exe
+C:\Users\Bilal\source\repos\SingleTonPattern\SingleTonPattern\bin\Debug\net6.0\SingleTonPattern.deps.json
+C:\Users\Bilal\source\repos\SingleTonPattern\SingleTonPattern\bin\Debug\net6.0\SingleTonPattern.runtimeconfig.json
+C:\Users\Bilal\source\repos\SingleTonPattern\SingleTonPattern\bin\Debug\net6.0\SingleTonPattern.dll
+C:\Users\Bilal\source\repos\SingleTonPattern\SingleTonPattern\bin\Debug\net6.0\SingleTonPattern.pdb
+C:\Users\Bilal\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\net6.0\SingleTonPattern.csproj.AssemblyReference.cache
+C:\Users\Bilal\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\net6.0\SingleTonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\net6.0\SingleTonPattern.AssemblyInfoInputs.cache
+C:\Users\Bilal\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\net6.0\SingleTonPattern.AssemblyInfo.cs
+C:\Users\Bilal\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\net6.0\SingleTonPattern.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\net6.0\SingleTonPattern.dll
+C:\Users\Bilal\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\net6.0\refint\SingleTonPattern.dll
+C:\Users\Bilal\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\net6.0\SingleTonPattern.pdb
+C:\Users\Bilal\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\net6.0\SingleTonPattern.genruntimeconfig.cache
+C:\Users\Bilal\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\net6.0\ref\SingleTonPattern.dll
