@@ -1,0 +1,16 @@
+C:\Users\Rafiq\Desktop\adaptor\adaptor\bin\Debug\net5.0\adaptor.exe
+C:\Users\Rafiq\Desktop\adaptor\adaptor\bin\Debug\net5.0\adaptor.deps.json
+C:\Users\Rafiq\Desktop\adaptor\adaptor\bin\Debug\net5.0\adaptor.runtimeconfig.json
+C:\Users\Rafiq\Desktop\adaptor\adaptor\bin\Debug\net5.0\adaptor.runtimeconfig.dev.json
+C:\Users\Rafiq\Desktop\adaptor\adaptor\bin\Debug\net5.0\adaptor.dll
+C:\Users\Rafiq\Desktop\adaptor\adaptor\bin\Debug\net5.0\ref\adaptor.dll
+C:\Users\Rafiq\Desktop\adaptor\adaptor\bin\Debug\net5.0\adaptor.pdb
+C:\Users\Rafiq\Desktop\adaptor\adaptor\obj\Debug\net5.0\adaptor.csproj.AssemblyReference.cache
+C:\Users\Rafiq\Desktop\adaptor\adaptor\obj\Debug\net5.0\adaptor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafiq\Desktop\adaptor\adaptor\obj\Debug\net5.0\adaptor.AssemblyInfoInputs.cache
+C:\Users\Rafiq\Desktop\adaptor\adaptor\obj\Debug\net5.0\adaptor.AssemblyInfo.cs
+C:\Users\Rafiq\Desktop\adaptor\adaptor\obj\Debug\net5.0\adaptor.csproj.CoreCompileInputs.cache
+C:\Users\Rafiq\Desktop\adaptor\adaptor\obj\Debug\net5.0\adaptor.dll
+C:\Users\Rafiq\Desktop\adaptor\adaptor\obj\Debug\net5.0\ref\adaptor.dll
+C:\Users\Rafiq\Desktop\adaptor\adaptor\obj\Debug\net5.0\adaptor.pdb
+C:\Users\Rafiq\Desktop\adaptor\adaptor\obj\Debug\net5.0\adaptor.genruntimeconfig.cache
