@@ -1,0 +1,16 @@
+C:\Users\Rafiq\Desktop\DP\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\net5.0\ProxyDesignPattern.exe
+C:\Users\Rafiq\Desktop\DP\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\net5.0\ProxyDesignPattern.deps.json
+C:\Users\Rafiq\Desktop\DP\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\net5.0\ProxyDesignPattern.runtimeconfig.json
+C:\Users\Rafiq\Desktop\DP\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\net5.0\ProxyDesignPattern.runtimeconfig.dev.json
+C:\Users\Rafiq\Desktop\DP\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\net5.0\ProxyDesignPattern.dll
+C:\Users\Rafiq\Desktop\DP\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\net5.0\ref\ProxyDesignPattern.dll
+C:\Users\Rafiq\Desktop\DP\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\net5.0\ProxyDesignPattern.pdb
+C:\Users\Rafiq\Desktop\DP\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\net5.0\ProxyDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Rafiq\Desktop\DP\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\net5.0\ProxyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafiq\Desktop\DP\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\net5.0\ProxyDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Rafiq\Desktop\DP\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\net5.0\ProxyDesignPattern.AssemblyInfo.cs
+C:\Users\Rafiq\Desktop\DP\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\net5.0\ProxyDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Rafiq\Desktop\DP\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\net5.0\ProxyDesignPattern.dll
+C:\Users\Rafiq\Desktop\DP\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\net5.0\ref\ProxyDesignPattern.dll
+C:\Users\Rafiq\Desktop\DP\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\net5.0\ProxyDesignPattern.pdb
+C:\Users\Rafiq\Desktop\DP\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\net5.0\ProxyDesignPattern.genruntimeconfig.cache
